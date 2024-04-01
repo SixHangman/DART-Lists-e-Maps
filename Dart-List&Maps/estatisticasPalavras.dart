@@ -1,6 +1,6 @@
 void main() {
   String texto =
-      "Bolo é bom, na moral, bolo é gostoso, seu eu pudesse, comeria bolo todo dia";
+      "Bolo é bom, na moral, bolo é gostoso, sem igual, comeria bolo todo dia, até passar mal";
 
   // Converte todas as letras do texto para minúsculas
   texto = texto.toLowerCase();
