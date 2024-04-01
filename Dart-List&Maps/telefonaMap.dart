@@ -1,10 +1,10 @@
 void main() {
   Map<String, int> telefone = {
-    'Bob Glober': 1525483557,
-    'Bob Globinho': 154852677,
-    'Bobzinho Glober': 15255268,
-    'Bobinho Gobler': 66666666,
-    'Bobs Globers': 1552687412,
+    'Bob piloto de F18': 1525483557,
+    'TV Globinho': 154852677,
+    'Bob Glober': 15255268,
+    'GOLB': 66666666,
+    'Bobs': 1552687412,
   };
   for (String telefones in telefone.keys) {
     print("Nome:  $telefones - Telefone : ${telefone[telefones]}");
